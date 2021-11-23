@@ -17,4 +17,4 @@ unixsig
 Note
 ====
 
-This project is created and maintained for Bulldog. see https://github.com/Clivern/Bulldog
+This project is created and maintained for Winkie. see https://github.com/Clivern/Winkie
