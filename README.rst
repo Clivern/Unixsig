@@ -17,4 +17,4 @@ unixsig
 Note
 ====
 
-This project is created and maintained for Winkie. see https://github.com/Clivern/Winkie
+This project is created and maintained for Cattle. see https://github.com/Clivern/Cattle
